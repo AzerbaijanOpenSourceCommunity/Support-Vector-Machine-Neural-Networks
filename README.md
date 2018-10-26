@@ -13,10 +13,10 @@ Used datasets:
   * [Iris Flower Dataset](https://www.kaggle.com/arshid/iris-flower-dataset)
   * [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 
-<div> 
+<p>
   <h3 align="center">Iris data set visualization(2 species)</h3>
   <img align="center" src="https://raw.githubusercontent.com/anarsultani97/Support-Vector-Machine-Neural-Networks/master/src/images/myplot.png">
-</div>
+</p>
 <br><br>
 
 
