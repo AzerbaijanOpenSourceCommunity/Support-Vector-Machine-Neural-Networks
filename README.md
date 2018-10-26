@@ -1,5 +1,5 @@
 
-# Support Vector Machines (SVM)
+# Support Vector Machines (SVM) 
 
 This is a group assignment for Neural Network course in Khazar University.
 
@@ -8,6 +8,9 @@ Used datasets:
   * [Iris Flower Dataset](https://www.kaggle.com/arshid/iris-flower-dataset)
   * [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 
-![alt text][logo]
+<div align="right"> 
+  <h3 align="center">Iris data set visualization(2 species)</h3>
+  <img align='center' alt="Iris data set visualization" align="right" src="https://raw.githubusercontent.com/anarsultani97/Support-Vector-Machine-Neural-Networks/master/src/images/myplot.png"
+</div>
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
