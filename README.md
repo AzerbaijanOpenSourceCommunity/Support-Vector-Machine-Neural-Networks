@@ -10,7 +10,7 @@ Used datasets:
 
 <div align="right"> 
   <h3 align="center">Iris data set visualization(2 species)</h3>
-  <img align='center' alt="Iris data set visualization" align="right" src="https://raw.githubusercontent.com/anarsultani97/Support-Vector-Machine-Neural-Networks/master/src/images/myplot.png"
+  <img align='center' alt="Iris data set visualization"  src="https://raw.githubusercontent.com/anarsultani97/Support-Vector-Machine-Neural-Networks/master/src/images/myplot.png"
 </div>
 
 
