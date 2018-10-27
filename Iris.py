@@ -41,7 +41,12 @@ predictions = model.predict(X_test)
 
 from sklearn.metrics import classification_report,confusion_matrix
 from sklearn.metrics import accuracy_score
+
+
+## Calculating  precision
+
 print(confusion_matrix(Y_test,predictions))
 print(classification_report(Y_test,predictions,target_names=iris_data.target_names))
-plt.plot(Y_test, predictions)
+
+
 plt.show()
